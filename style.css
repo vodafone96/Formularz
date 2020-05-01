@@ -1,0 +1,40 @@
+body
+{
+    padding: 0;
+    margin: 0;
+   background-color: #eeeeee;
+   text-align: center;
+   align-items: center;
+}
+#formularz
+{
+    margin-top: 100px;
+    width: 200px;
+    height: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 2px solid black;
+    
+}
+
+.info
+{
+    padding: 5px;
+    color: red;
+    font-style: italic;
+    
+}
+.inactive
+{
+    margin-top: 10px;
+    color: grey;
+    font-style: italic;
+}
+.active
+{
+    margin-top: 5px;
+    color: black;
+    border: 2px solid rgb(18, 3, 82);
+    
+}
